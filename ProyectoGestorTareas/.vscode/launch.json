@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Login",
+            "request": "launch",
+            "mainClass": "Frame.Login",
+            "projectName": "ProyectoGestorTareas"
+        }
+    ]
+}
